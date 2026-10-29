@@ -1,0 +1,17 @@
+{
+  "chats": [
+    {
+      "id": "default",
+      "title": "Default Chat",
+      "created_at": 1763376374539
+    }
+  ],
+  "messages": [],
+  "folders": [
+    {
+      "id": "default",
+      "name": "Inbox",
+      "created_at": 1763376374539
+    }
+  ]
+}
